@@ -1,9 +1,9 @@
 ### Hello! The name's Pedro. 👋
 
-- 🔭 I’m currently working on **Frontend Development**, having worked with **Backend** in the past, with **PHP** and **Laravel**.
+- 🔭 I’m currently a **Junior Frontend Engineer** at Virtual Identity, and have worked with **Backend** in the past, with **PHP** and **Laravel**.
 - 🌱 I’m currently learning **[StencilJS](https://github.com/ionic-team/stencil)**!
 - 😄 Pronouns: **he/him**
-- ⚡ Fun fact: I code most of the time, but record as a past time. 📸
+- ⚡ Fun fact: I was a host for an online radio recently! 🎙
 
 ##
 
