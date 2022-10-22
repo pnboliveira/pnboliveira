@@ -1,4 +1,4 @@
-<h1>Hello! The name's Pedro. 👋</h1>
+<h1 align="center">Hello! The name's Pedro. 👋</h1>
 
 🔭 I’m currently a **Junior Frontend Engineer** at Virtual Identity, and have worked with **Backend** in the past, with **PHP** and **Laravel**.
 
@@ -10,7 +10,7 @@
 
 ##
 
-<p align="center"><a href="https://github.com/pnboliveira/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnboliveira&layout=compact&theme=dark&include_all_commits=true&count_private=true"></a></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnboliveira&layout=compact&theme=dark&include_all_commits=true&count_private=true"></p>
 
 ##
 
