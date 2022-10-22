@@ -1,4 +1,5 @@
-<h1 align="center">Hello! The name's Pedro. 👋</h1>
+<p align="center">
+<img src="https://dwoliveira.com/img/Screenshot_16.png"/></p>
 
 🔭 I’m currently a **Junior Frontend Engineer** at Virtual Identity, and have worked with **Backend** in the past, with **PHP** and **Laravel**.
 
