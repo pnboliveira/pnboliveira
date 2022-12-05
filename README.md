@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://dwoliveira.com/img/Screenshot_16.png"/></p>
 
-🔭 I’m currently a **Junior Frontend Engineer** at Virtual Identity, with proficiency in **Web Components** such as **[StencilJS](https://github.com/ionic-team/stencil)** and **TypeScript** and **Backend**, with languages like **PHP** and the **Laravel** framework.
+🔭 I’m currently a **Junior Frontend Engineer** at Virtual Identity, with proficiency in **Web Components** such as **[StencilJS](https://github.com/ionic-team/stencil)** and **TypeScript**, as well as **Backend Development**  with languages like **PHP** and the **Laravel** framework.
 
 🌱 I’m currently learning **[Docker](https://www.docker.com/)** and **[Kubernetes](https://kubernetes.io/)**!
 
