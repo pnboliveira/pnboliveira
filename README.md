@@ -7,7 +7,7 @@
 
 😄 Pronouns: **he/him**
 
-⚡ Fun fact: I was a host for an online radio recently! 🎙
+⚡ Fun fact: The [Steam Deck](https://www.steamdeck.com/en/) has become my laptop on-the-go! 🎮
 
 ##
 
