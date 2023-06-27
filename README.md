@@ -5,9 +5,7 @@
 
 🌱 I’m currently learning **[Docker](https://www.docker.com/)** and **[Kubernetes](https://kubernetes.io/)**!
 
-😄 Pronouns: **he/him**
-
-⚡ Fun fact: The [Steam Deck](https://www.steamdeck.com/en/) has become my laptop on-the-go! 🎮
+⚡ Fun fact: I used to play fighting games competitively, mainly for Street Fighter and Dragon Ball FighterZ! 🕹️
 
 ##
 
