@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning **[Docker](https://www.docker.com/)** and **[Kubernetes](https://kubernetes.io/)**!
 
-⚡ Fun fact: I used to play fighting games competitively, mainly for Street Fighter and Dragon Ball FighterZ! 🕹️
+⚡ Fun fact: I ~~used~~ still to play fighting games competitively, mainly Street Fighter 6! 🕹️
 
 ##
 
