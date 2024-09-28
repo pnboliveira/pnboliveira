@@ -30,10 +30,3 @@
 <a href="https://blog.dwoliveira.com" target="_blank"><img src="https://img.shields.io/badge/Blog-black?logo=medium&style=for-the-badge"/></a>
 <a href="https://www.youtube.com/channel/UC57uf5r3SY67G34tSbMBssg" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge"/></a>
 </p>
-
-<!--
-**pnboliveira/pnboliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
